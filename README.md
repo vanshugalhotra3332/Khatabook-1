@@ -1,8 +1,8 @@
 ## This program helps you to read a Pdf table or text  Using Pandas. 
-# And is mainly focussed on Reading a particular Bank Invoice passbook Pdf
+### And is mainly focussed on Reading a particular Bank Invoice passbook Pdf
 
 
-# Prerequisites:-
+## Prerequisites:-
 import datetime,
         import pandas,
         import pikepdf,
@@ -25,4 +25,4 @@ And
 
 For Pandas Tutorial
 
-#  https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
+#### https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
